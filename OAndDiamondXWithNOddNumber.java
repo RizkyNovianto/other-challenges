@@ -1,4 +1,4 @@
-public class ZeroAndDiamondXWithNOddNumber
+public class OAndDiamondXWithNOddNumber
 {
 	public static void main(String[] args) {
 		
