@@ -1,3 +1,5 @@
+//Fungsi bilangan prima masih salah
+
 public class LombaLari{
 
      public static void main(String []args){
